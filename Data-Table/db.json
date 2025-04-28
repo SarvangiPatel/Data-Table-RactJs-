@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Wireless Headphones",
+      "desc": "Noise-canceling wireless headphones with superior sound quality.",
+      "price": "5000",
+      "category": "Electronics",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz_551_ANC_Pro.347_1.jpg?v=1737546044"
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch 5",
+      "desc": "A stylish smartwatch with health tracking and notifications.",
+      "price": 249.99,
+      "category": "Wearables",
+      "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/galaxy-watch-5-face-greenery.jpg?q=70&fit=contain&w=1200&h=628&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Gaming Mouse",
+      "desc": "A high-precision gaming mouse with customizable buttons.",
+      "price": 49.99,
+      "category": "Gaming",
+      "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 6,
+      "title": "Mechanical Keyboard",
+      "desc": "A durable mechanical keyboard with customizable RGB lighting.",
+      "price": 89.99,
+      "category": "Accessories",
+      "image": "https://images.indianexpress.com/2021/06/Corsair-Mechanical-Keyboard.jpg"
+    },
+    {
+      "id": 7,
+      "title": "4K Monitor",
+      "desc": "A stunning 4K monitor with vibrant colors and fast refresh rate.",
+      "price": 349.99,
+      "category": "Computers",
+      "image": "https://images.samsung.com/is/image/samsung/in-uhd-uj590-lu32j590uqwxxl-frontblack-163669059?$684_547_PNG$"
+    },
+    {
+      "id": 8,
+      "title": "Bluetooth Speaker",
+      "desc": "A compact Bluetooth speaker with deep bass and clear sound.",
+      "price": 79.99,
+      "category": "Audio",
+      "image": "https://klipsch.imgix.net/product-images/Klipsch_Austin-Cream-LS3_2000x2000.jpg?crop=focalpoint&domain=klipsch.imgix.net&fit=crop&fm=webp&fp-x=0.5&fp-y=0.5&h=800&ixlib=php-3.3.1&q=100&w=800"
+    },
+    {
+      "id": 9,
+      "title": "Tablet Pro 12",
+      "desc": "A high-performance tablet with a 12-inch display and stylus support.",
+      "price": 599.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61v2sEztOiL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "VR Headset",
+      "desc": "An immersive VR headset for gaming and virtual experiences.",
+      "price": 399.99,
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1576633587382-13ddf37b1fc1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dnIlMjBoZWFkc2V0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 11,
+      "title": "External SSD 1TB",
+      "desc": "A fast and portable 1TB external SSD for data storage.",
+      "price": 149.99,
+      "category": "Storage",
+      "image": "https://m.media-amazon.com/images/I/61zuR3UMnWL.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Smart Home Hub",
+      "desc": "A smart home hub for controlling all your connected devices.",
+      "price": 129.99,
+      "category": "Smart Home",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4TRNpZsV9jth5r_FQadplP_HysWSYg4Jig&s"
+    },
+    {
+      "id": 13,
+      "title": "E-Reader Paperwhite",
+      "desc": "A lightweight e-reader with a glare-free display.",
+      "price": 139.99,
+      "category": "Electronics",
+      "image": "https://cdn.ndtv.com/tech/gadget/image/Kindle_Paperwhite.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Portable Projector",
+      "desc": "A compact portable projector for movies and presentations.",
+      "price": 299.99,
+      "category": "Electronics",
+      "image": "https://image.benq.com/is/image/benqco/protable-gp100-usb-c-1?$ResponsivePreset$"
+    },
+    {
+      "id": 15,
+      "title": "Gaming Chair",
+      "desc": "An ergonomic gaming chair with adjustable armrests and lumbar support.",
+      "price": 199.99,
+      "category": "Furniture",
+      "image": "https://thesleepcompany.in/cdn/shop/files/1_1b9e5e7f-c769-4382-a997-7dbdc2b13803.webp?v=1743447024"
+    },
+    {
+      "id": 16,
+      "title": "Smart Thermostat",
+      "desc": "An intelligent thermostat that adjusts temperature based on your schedule.",
+      "price": 179.99,
+      "category": "Smart Home",
+      "image": "https://abeheatingandcooling.com/wp-content/uploads/2023/11/what-is-the-difference-between-programmable-thermostat-and-smart-thermostat.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Robot Vacuum",
+      "desc": "A self-navigating robot vacuum for effortless cleaning.",
+      "price": 299.99,
+      "category": "Home Appliances",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-RMwDtl4rX3NJIBPsrSgKYIZiylya7QK2mg&s"
+    },
+    {
+      "id": 18,
+      "title": "Streaming Stick",
+      "desc": "A 4K streaming stick for watching your favorite shows and movies.",
+      "price": 49.99,
+      "category": "Entertainment",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6jBVySpeE33AtnvI8i_F2lGxHi_B2qJKPg&s"
+    },
+    {
+      "id": 19,
+      "title": "Wireless Charging Pad",
+      "desc": "A fast wireless charging pad for your smartphone and accessories.",
+      "price": 39.99,
+      "category": "Accessories",
+      "image": "https://media.istockphoto.com/id/1215029140/photo/modern-smart-phone-wireless-charging-on-carbon-fibre-surface.jpg?s=612x612&w=0&k=20&c=g1qNU25cqtglFwekHyu1QCs0-TwiZQcTiVp-B-Ex6mo="
+    },
+    {
+      "id": 20,
+      "title": "Electric Toothbrush",
+      "desc": "A smart electric toothbrush with multiple brushing modes.",
+      "price": 99.99,
+      "category": "Personal Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIwCc1tCmtzyDzYkBvw6Y6D_kCd0HglpzMQ&s"
+    },
+    {
+      "title": "LCD",
+      "desc": "A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals combined with polarizers to display information.",
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2jZ1jqjaKrwvL0Vc-HrqBjNi-bUcMuK2mw&s",
+      "price": "70,500",
+      "id": 21
+    }
+  ]
+}

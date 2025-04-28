@@ -1,0 +1,142 @@
+
+
+/* navbar */
+
+.navbar{
+    height: 70px;
+    width: 95%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 0px 40px; */
+    padding: 0px 30px;
+    color: white;
+    margin-bottom: 40px;
+}
+.navbar ul{
+    display: flex;
+    padding: 0px 30px;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* Product page */
+
+.main-product{
+    height: 2200px;
+    /* background-color: aqua; */
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.main-product .left{
+    width: 40%;
+}
+.main-product .right{
+    height: 1000px;
+    width: 60%; 
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.page-btn{
+    height: 40px;
+    width: 150px;
+    border: none;
+    background-color: black;
+    color: #fff;
+}
+
+/* Form */
+.form-container{
+    display: flex;
+    flex-direction: column;
+    height: 650px;
+    width: 400px;
+    border: 1px solid black;
+    margin: auto;
+  }
+
+  .form-container input{
+    height: 40px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-left: 20px;
+  }
+  select{
+    height: 40px;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+
+   .submit-btn {
+     background-color: black;
+     color: #fff;
+     padding: 12px 20px;
+     border: none;
+     border-radius: 5px;
+     font-size: 16px;
+     cursor: pointer;
+     transition: background-color 0.3s ease;
+     margin-left: 35%;
+     margin-top: 20px;
+   }
+ 
+   .select-cat{
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
+    border: 1px solid black;
+    text-align: center;
+   }
+   .select-cat button{
+    height: 40px;
+    width: 75%;
+    background-color: black;
+    color: white;
+    border: none;
+   }
+
+   .select-cat h3{
+    color: brown;
+   }
+   .search{
+    width: 50%;
+    margin-left: 25%;
+    height: 40px;
+    padding-left: 20px;
+
+   }
+
+/* Description Page */
+.description{
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.des-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart-btn{
+    width: 70%;
+    height: 40px;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
